@@ -1,0 +1,24 @@
+{
+    "projects":[
+        {
+            "title":"Proyecto 1",
+            "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem vero, optio quasi sequi alias minus! Quam asperiores tempore atque commodi id veniam iusto nulla, cum minima laudantium possimus quos aspernatur inventore expedita omnis tenetur repudiandae quia vitae voluptatibus laborum doloremque rem. Cupiditate velit temporibus blanditiis obcaecati eos minus natus libero.",
+            "image":"images/finger.svg"
+        },
+        {
+            "title":"Farm land 1",
+            "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem vero, optio quasi sequi alias minus! Quam asperiores tempore atque commodi id veniam iusto nulla, cum minima laudantium possimus quos aspernatur inventore expedita omnis tenetur repudiandae quia vitae voluptatibus laborum doloremque rem. Cupiditate velit temporibus blanditiis obcaecati eos minus natus libero.",
+            "image":"images/finger.svg"
+        },
+        {
+            "title":"Farm land 1",
+            "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem vero, optio quasi sequi alias minus! Quam asperiores tempore atque commodi id veniam iusto nulla, cum minima laudantium possimus quos aspernatur inventore expedita omnis tenetur repudiandae quia vitae voluptatibus laborum doloremque rem. Cupiditate velit temporibus blanditiis obcaecati eos minus natus libero.",
+            "image":"images/finger.svg"
+        },
+        {
+            "title":"Farm land 1",
+            "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem vero, optio quasi sequi alias minus! Quam asperiores tempore atque commodi id veniam iusto nulla, cum minima laudantium possimus quos aspernatur inventore expedita omnis tenetur repudiandae quia vitae voluptatibus laborum doloremque rem. Cupiditate velit temporibus blanditiis obcaecati eos minus natus libero.",
+            "image":"images/finger.svg"
+        }
+    ]
+}
